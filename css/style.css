@@ -1,0 +1,24 @@
+body {
+	background: lightgray;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+header {
+	height: 50px; 
+	background: peru;
+}
+
+section {
+	background: #fcfcd2;
+	flex:1;
+}
+
+footer {
+	background: green;
+	height: 100px;
+
+
+}
+
